@@ -19,6 +19,7 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "framer-motion": "^12.42.0",
+    "lightweight-charts": "^5.2.0",
     "lucide-react": "^1.21.0",
     "postcss": "^8.5.15",
     "postcss-import": "^16.1.1",
